@@ -1,6 +1,7 @@
-# Qimera: Data-free Quantization with Synthetic Boundary Supporting Samples
+# Qimera: Data-free Quantization with Synthetic Boundary Supporting Samples [NeurIPS 2021]
 
 This repository is the official implementation of paper [Qimera: Data-free Quantization with Synthetic Boundary Supporting Samples]. 
+[[Paper](https://arxiv.org/abs/2111.02625)] [[Slide](https://acsys.yonsei.ac.kr/papers/qimera_slides.pdf)]
 
 ![Overview of Qimera](figs/Qimera.png)
 
