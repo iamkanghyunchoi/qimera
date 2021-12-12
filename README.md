@@ -75,3 +75,13 @@ Generated Synthetic Images for Cifar10 :
 ## License
 
 This project is licensed under the terms of the GNU General Public License v3.0
+
+## Citation
+```
+@inproceedings{choi2021qimera,
+  title={Qimera: Data-free Quantization with Synthetic Boundary Supporting Samples},
+  author={Choi, Kanghyun and Hong, Deokki and Park, Noseong and Kim, Youngsok and Lee, Jinho},
+  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+  year={2021}
+}
+```
